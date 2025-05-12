@@ -25,3 +25,5 @@ This project aims to create a **chatbot** that handles debt collection conversat
 * **Groq**: A platform for deploying and interacting with AI models.
 * **Llama-3.1-70b-versatile**: A state-of-the-art language model for conversational AI tasks.
 * **API Integration**: For smooth communication between the chatbot and the backend services.
+
+![debt collector chatbot](https://github.com/user-attachments/assets/49721178-22ab-4be8-ab71-09a9b67b07c0)
